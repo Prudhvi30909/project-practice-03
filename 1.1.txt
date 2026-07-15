@@ -1,3 +1,10 @@
+<<<<<<< Updated upstream
 story 2
 
 Hello World
+=======
+Story 1
+
+This is Prudhvi
+
+>>>>>>> Stashed changes
